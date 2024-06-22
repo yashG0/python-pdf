@@ -1,0 +1,29 @@
+#Environment files
+.env
+
+# IDE and OS specific files
+# Choose the ones relevant to your environment
+*.idea/*
+.vscode/*
+__pycache__
+
+# Text editor temporary files
+*.py~
+*.swp
+
+# Distribution / packaging files
+dist/*
+build/*
+pip-wheel-metadata/*
+
+# Testing frameworks
+.pytest_cache/
+
+# Logs
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/*
+env/*
